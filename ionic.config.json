@@ -1,0 +1,7 @@
+{
+  "name": "BusinessAdmin",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
